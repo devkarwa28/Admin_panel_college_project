@@ -1,4 +1,4 @@
-# Next.js v14 E-commerce Starter Kit 💻
+# Next.js v14 
 
 Ready to use [Next.js](https://nextjs.org) v14 (TypeScript) E-commerce Starter Kit
 
